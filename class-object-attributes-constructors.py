@@ -22,7 +22,7 @@ class Person:
 
 
 
-person1 = Person(age = 20, name = "boogers")
+person1 = Person(age = 20, name = "frank")
 person1.talk()
 
 bob = Person("Bob Smith",30)
